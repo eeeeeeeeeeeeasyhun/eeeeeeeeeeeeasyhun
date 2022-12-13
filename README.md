@@ -12,3 +12,6 @@ https://velog.io/@ezhun
 https://career.programmers.co.kr/pr/hun5214_7482
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihun5240)](https://solved.ac/jihun5240)<br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeeeeeeeeeasyhun&langs_count=8)](https://github.com/eeeeeeeeeeeeasyhun/github-readme-stats)
