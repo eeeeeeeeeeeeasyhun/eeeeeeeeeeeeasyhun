@@ -1,6 +1,6 @@
 <div align=center>
   
-## Introduce
+## Introduce:v:
   안녕하세요 게임 클라이언트 프로그래머가 되기 위해 공부 중인 신입 개발자 입니다!!
 
 ## Stack
@@ -15,13 +15,8 @@ https://velog.io/@ezhun
 
 
 
-
-### Solving
+## Solving
 https://career.programmers.co.kr/pr/hun5214_7482
-
-   <a href="url" > <h3>:muscle: Problem Solving </h3> </a>
-   <a href="https://career.programmers.co.kr/pr/hun5214_7482" > <h3>:muscle: Problem Solving </h3> </a>
-
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeeeeeeeeeasyhun&langs_count=8)](https://github.com/eeeeeeeeeeeeasyhun/github-readme-stats)
 
