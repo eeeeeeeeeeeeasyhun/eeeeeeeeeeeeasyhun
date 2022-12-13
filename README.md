@@ -6,5 +6,9 @@
 
 ## Blog
 https://www.notion.so/Lee-ji-hun-ee415e77c11c42c19c825cf11c3602a7
+
 https://velog.io/@ezhun
+
 https://career.programmers.co.kr/pr/hun5214_7482
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jihun5240)](https://solved.ac/jihun5240)<br/>
