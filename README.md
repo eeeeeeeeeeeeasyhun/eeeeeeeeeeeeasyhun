@@ -17,6 +17,9 @@ https://velog.io/@ezhun
 
 ## Solving
 https://career.programmers.co.kr/pr/hun5214_7482
+  
+ https://github.com/eeeeeeeeeeeeasyhun/cotestudyprivate
+  
 ##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeeeeeeeeeeeasyhun&langs_count=8)](https://github.com/eeeeeeeeeeeeasyhun/github-readme-stats)
 
