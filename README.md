@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <div align=center>
+
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=LeeJiHun&fontSize=70&animation=twinkling)
   
 ## Introduce:v:
   안녕하세요 게임 클라이언트 프로그래머가 되기 위해 공부 중인 신입 개발자 입니다!!
