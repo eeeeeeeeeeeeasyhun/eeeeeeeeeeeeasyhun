@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <div align=center>
   
 ## Introduce:v:
@@ -16,8 +18,6 @@ https://velog.io/@ezhun
 
 
 ## Solving
-https://career.programmers.co.kr/pr/hun5214_7482
-  
  https://github.com/eeeeeeeeeeeeasyhun/cotestudyprivate
   
 ##
